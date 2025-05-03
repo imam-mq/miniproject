@@ -120,8 +120,8 @@ const TentangKami = () => {
             <div className="space-y-6 text-center lg:text-left transform lg:translate-x-24">
               <h2 className="text-3xl font-bold text-red-700 mb-4">Kenali Tim Ahli Kami</h2>
               <p className="text-gray-700 mb-6">
-                Tim profesional kami berkomitmen untuk membantu anda menjaga kesehatan jantung melalui pendekatan edukatif. Dengan system ini anda dapat dengan mudah
-                mengevaluasi resiko penyakit jantung berdasarkan data pribadi seperti usia, kebiasaan merokok dan kolestrol.
+                Tim ahli kami terdiri dari profesional berpengalaman di bidang kesehatan jantung, termasuk dokter, ahli gizi, dan tenaga medis lainnya. 
+                Dengan dedikasi tinggi, mereka siap memberikan edukasi dan konsultasi untuk membantu Anda memahami dan menjaga kesehatan jantung Anda
               </p>
               <button className="bg-red-700 hover:bg-red-800 text-white px-6 py-3 rounded shadow font-semibold transition">
                 Jadwalkan Konsultasi
