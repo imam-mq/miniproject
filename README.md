@@ -1,3 +1,3 @@
 # React + Tailwind
 
-'minipro' : 'https://raw.githubusercontent.com/imam-mq/minipro/main/assets/img/MiniPri.gif'
+'minipro' : 'https://raw.githubusercontent.com/imam-mq/minipro/src/assets/img/MiniPri.gif'
